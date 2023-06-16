@@ -1,0 +1,11 @@
+/* formatando imagens */
+img.imagem-principial {
+    width: 98%;
+    border: 3px solid #dfdfdf;
+}
+
+img {
+    border: 2px solid #dfdfdf;
+
+}
+
